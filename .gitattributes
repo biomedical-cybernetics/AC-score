@@ -1,0 +1,7 @@
+plot_comparison.m filter=lfs diff=lfs merge=lfs -text
+plot_profile.m filter=lfs diff=lfs merge=lfs -text
+SVHN_ACscore.m filter=lfs diff=lfs merge=lfs -text
+compute_metric.m filter=lfs diff=lfs merge=lfs -text
+data filter=lfs diff=lfs merge=lfs -text
+lda.m filter=lfs diff=lfs merge=lfs -text
+nmc.m filter=lfs diff=lfs merge=lfs -text
